@@ -6,3 +6,10 @@ Ale vybírej rychle, tým, který splní více úloh dřív vyhrává!
 Hledáte hesla ve formátu `pb071{nejaky_text}`, kde `nejaky_text` je jakákoli sekvence písmen, čísel a podtržítek. Nalezená hesla mi posílejte na Discord.
 
 Tak tedy hodně štěstí a pusťte se do toho!
+
+-----
+
+## Úlohy
+[> What does the duck say?](brainduck)<br/>
+[> Ave Caesar, špatné zprávy](caesar)<br/>
+[> Da Vinciho poselství](mona_lisa)
