@@ -17,7 +17,7 @@ Hlavička:
 | Offset od začátku |
 +-------------------+
 | 0x00              |   ... (pro nás) nedůležité informace ...
-| 0x0A              | Offset, na kterém začínají data o pixelech (Little Endian - čtěte pomocí fread)
+| 0x0A              | Offset, na kterém začínají data o pixelech (int32_t - Little Endian (nejjednodušší pomocí fread))
 | 0x0E              |   ... (pro nás) nedůležité informace ...
 +-------------------+
 ```
