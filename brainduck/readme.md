@@ -4,7 +4,7 @@
 
 Kachní zpráva je ve skutečnosti program v jazyce [Brainf*ck](https://cs.wikipedia.org/wiki/Brainfuck). Pokud jste o něm nikdy neslyšeli, tak nezoufejte, je skutečně jednoduchý. Pro naše účely jsem kachní modifikaci nazval Brainduck.
 
-Paměť Brainduckového stroje je jednosměrně "nekonečná" (pro naše účely stačí 100 buněk) páska, kde na každý znak můžeme uložit nezáporné číslo 0-255 (`unsigned char`).
+Paměť Brainduckového stroje je jednosměrně "nekonečná" (pro naše účely stačí 1000 buněk) páska, kde na každý znak můžeme uložit nezáporné číslo 0-255 (`unsigned char`).
 
 Brainf*ck používá pro programování jen 8 různých znaků, které si ale naše kachny trochu upravily... jejich zobáky hold nezvládnou vydat zvuk `[`, nebo `+`
 - `A` (= `>`) - posun datového ukazatele o jednu buňku doprava
