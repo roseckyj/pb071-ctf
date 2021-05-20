@@ -19,3 +19,6 @@ Brainf*ck používá pro programování jen 8 různých znaků, které si ale na
 Stačí už jen poslední krok k odhalení kachní záhady!
 
 *Pozn.: Pro tuto úlohu je zakázáno použít jakýkoli interpreter Brainf\*cku, který si sami nenapíšete*
+
+## Přílohy
+[> prepis.bd](prepis.bd)

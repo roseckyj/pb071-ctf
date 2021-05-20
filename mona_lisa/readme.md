@@ -35,3 +35,6 @@ Potom se přesuňte na offset (viz 0x0A), kde začnete číst data o pixelech:
 Podle posledních slov nás zajímají pixely, které nejsou černobílé (neplatí pro ně `red == green == blue`).
 
 Dokážete odhalit, co nám chtěl Leonardo sdělit?
+
+## Přílohy
+[> fotka.bmp](fotka.bmp)
