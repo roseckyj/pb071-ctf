@@ -37,4 +37,4 @@ Podle posledních slov nás zajímají pixely, které nejsou černobílé (nepla
 Dokážete odhalit, co nám chtěl Leonardo sdělit?
 
 ## Přílohy
-[> fotka.bmp](fotka.bmp)
+[> fotka.bmp](fotka.bmp) - 60x60px
