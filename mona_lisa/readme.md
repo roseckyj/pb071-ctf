@@ -4,7 +4,7 @@
 >
 > ![Mona Lisa](./fotka.bmp)
 >
-> Poslední slova byla *"Na té disketě je ukrytá moudrost od samotného da Vinciho! Já jsem ho nědokázal objevit, ale věřím, že ty to dokážeš! Všechno není černobílé..."*
+> Poslední slova byla *"Na té disketě je ukrytá moudrost od samotného da Vinciho! Já jsem ji nedokázal objevit, ale věřím, že ty to dokážeš! Všechno není černobílé..."*
 
 Vypadá to, že Mona Lisa toho může ukrývat ještě víc, než jsme si mysleli a my teď máme lepší technologii, než kdy dřív. Můžeme programovat v Cčku!
 
