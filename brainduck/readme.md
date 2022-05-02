@@ -13,8 +13,8 @@ Brainf*ck používá pro programování jen 8 různých znaků, které si ale na
 - `r` (= `-`) - snížení hodnoty aktivní buňky o 1
 - `W` (= `.`) - výpis hodnoty aktivní buňky na standardní výstup. Pro výpis se používá ASCII znak podle hodnoty aktivní buňky
 - `w` (= `,`) - uložení hodnoty ze vstupu do aktivní buňky (ASCII)
-- `G` (= `[`) - pokud je hodnota aktivní buňky rovna nule, provede přesun instrukčního ukazatele doprava za odpovídající `g`(= `]`)
-- `g` (= `]`) - pokud je hodnota aktivní buňky různá od nuly, provede přesun instrukčního ukazatele doleva na odpovídající `G`(= `[`)
+- `G` (= `[`) - pokud je hodnota aktivní buňky rovna nule, provede přesun instrukčního ukazatele doprava za nejbližší `g`(= `]`)
+- `g` (= `]`) - pokud je hodnota aktivní buňky různá od nuly, provede přesun instrukčního ukazatele doleva na nejbližší `G`(= `[`)
 
 Stačí už jen poslední krok k odhalení kachní záhady!
 
